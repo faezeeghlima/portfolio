@@ -17,9 +17,6 @@ The website is built with the following technologies:
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) for rapid and efficient styling.
 - **Deployment**: [Vercel](https://vercel.com/) for seamless hosting and deployment.
 
-## 📂 Project Structure
-
-faeze-portfolio/ ├── components/ # Reusable React components ├── pages/ # Website pages (Home, About, Projects, Contact) ├── public/ # Static assets (images, icons) ├── styles/ # Custom CSS styles ├── .gitignore # Files to be ignored by Git ├── README.md # Project overview and instructions └── package.json # Project dependencies and scripts
 
 ## 🛠️ Installation
 
@@ -29,3 +26,11 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/faeze-portfolio.git
    cd faeze-portfolio
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+
+3. **Run the development server:
+   ```bash
+   npm install
